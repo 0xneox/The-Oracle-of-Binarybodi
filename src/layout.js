@@ -117,7 +117,7 @@ export default props => {
             fontSize: 0,
             mr: 3,
           }}>
-          <Avatar size={32} sx={{ mr: 2 }} />
+
           Bodi
         </Styled.a>
         <Styled.a
@@ -128,7 +128,27 @@ export default props => {
             fontSize: 0,
             mr: 3,
           }}>
+          Get Started
+        </Styled.a>
+        <Styled.a
+          as={Link}
+          to='/blog'
+          sx={{
+            variant: 'styles.navitem',
+            fontSize: 0,
+            mr: 3,
+          }}>
           The Oracle
+        </Styled.a>
+        <Styled.a
+          as={Link}
+          to='/blog'
+          sx={{
+            variant: 'styles.navitem',
+            fontSize: 0,
+            mr: 3,
+          }}>
+          MPS Login
         </Styled.a>
         <div sx={{ mx: 'auto' }} />
         <ColorButton
@@ -180,9 +200,6 @@ export default props => {
             display: 'flex',
             justifyContent: 'center',
           }}>
-          <Link to='/avatar' title='About the avatar'>
-            <Avatar size={40} />
-          </Link>
           <a
             href='https://twitter.com/binarybodi'
             title='Twitter'
@@ -216,7 +233,7 @@ export default props => {
               variant: 'styles.navitem',
               mr: 3,
             }}>
-            The Oracle of Binarybodi.
+            Bodi
           </Styled.a>
           <Styled.a
             as={Link}
@@ -225,7 +242,7 @@ export default props => {
               variant: 'styles.navitem',
               mr: 3,
             }}>
-            Context
+            The Oracle
           </Styled.a>
           <Styled.a
             as={Link}
@@ -235,6 +252,33 @@ export default props => {
               mr: 4,
             }}>
             About
+          </Styled.a>
+          <Styled.a
+            as={Link}
+            to='/about'
+            sx={{
+              variant: 'styles.navitem',
+              mr: 4,
+            }}>
+            Syndicate Pass
+          </Styled.a>
+          <Styled.a
+            as={Link}
+            href='https://binarybodi.xyz/mint'
+            sx={{
+              variant: 'styles.navitem',
+              mr: 4,
+            }}>
+            MPS Login
+          </Styled.a>
+          <Styled.a
+            as={Link}
+            to='/getstarted'
+            sx={{
+              variant: 'styles.navitem',
+              mr: 4,
+            }}>
+            Get started
           </Styled.a>
           <div sx={{ mx: 'auto' }} />
           <div sx={{ my: 2 }}>The Oracle of Binarybodi © MPS 2022 </div>
