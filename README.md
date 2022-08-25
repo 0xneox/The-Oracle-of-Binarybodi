@@ -1,5 +1,5 @@
 
-# https://jxnblk.com/blog
+# https://oracle.binarybodi.xyz
 
 Personal blog with thoughts on design, development, and other things
 
