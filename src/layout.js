@@ -128,7 +128,7 @@ export default props => {
             fontSize: 0,
             mr: 3,
           }}>
-          Get Started
+          Docs
         </Styled.a>
         <Styled.a
           as={Link}
@@ -138,7 +138,7 @@ export default props => {
             fontSize: 0,
             mr: 3,
           }}>
-          The Oracle
+          Oracle
         </Styled.a>
         <Styled.a
           as={Link}
@@ -148,7 +148,7 @@ export default props => {
             fontSize: 0,
             mr: 3,
           }}>
-          MPS Login
+          Login
         </Styled.a>
         <div sx={{ mx: 'auto' }} />
         <ColorButton
@@ -242,7 +242,7 @@ export default props => {
               variant: 'styles.navitem',
               mr: 3,
             }}>
-            The Oracle
+            Oracle
           </Styled.a>
           <Styled.a
             as={Link}
@@ -262,15 +262,7 @@ export default props => {
             }}>
             Syndicate Pass
           </Styled.a>
-          <Styled.a
-            as={Link}
-            href='https://binarybodi.xyz/mint'
-            sx={{
-              variant: 'styles.navitem',
-              mr: 4,
-            }}>
-            MPS Login
-          </Styled.a>
+
           <Styled.a
             as={Link}
             to='/getstarted'
@@ -278,7 +270,7 @@ export default props => {
               variant: 'styles.navitem',
               mr: 4,
             }}>
-            Get started
+            Docs
           </Styled.a>
           <div sx={{ mx: 'auto' }} />
           <div sx={{ my: 2 }}>The Oracle of Binarybodi © MPS 2022 </div>
