@@ -1,7 +1,0 @@
----
-title: 'Psychic'
-date: 2022-02-09
-
----
-
-Since ancient times, spiritual teachers have described paths and practices that a person could follow to achieve health, happiness, and peace of mind. Considerable recent research has indicated that any sort of spiritual practice is likely to improve one's prognosis for recovering from a serious illness. Many of these approaches to spirituality involve learning to quiet the mind rather than adhering to a prescribed religious belief. These meditative paths include the mystic branches of Buddhism, Hinduism, and Christianity; Kabalistic Judaism; Sufism; and many others. What is hinted at in the subtext of these teachings is that as one learns to quiet his or her mind, one is likely to encounter psychic-seeming experiences or perceptions. For example, in The Sutras of Patanjali, the Hindu master tells us that on the way to transcendence we may experience all sorts of amazing visions, such as the ability to see into the distance, or into the future, and to diagnose illnesses and to cure them. However, we are told not to get attached to these psychic abilities--they are mere phenomena standing as stumbling blocks on the path to enlightenment. In this article, we describe the laboratory evidence for some of these remarkable phenomena and their implications for science, mental health, and peace of mind.
