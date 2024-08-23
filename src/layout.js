@@ -118,7 +118,7 @@ export default props => {
             mr: 3,
           }}>
 
-          Bodi
+          ZibSquid
         </Styled.a>
 
 
@@ -174,7 +174,7 @@ export default props => {
             justifyContent: 'center',
           }}>
           <a
-            href='https://twitter.com/binarybodi'
+            href='https://twitter.com/zibsquid'
             title='Twitter'
             sx={{
               variant: 'styles.navitem',
@@ -184,7 +184,7 @@ export default props => {
             <Twitter size={24} />
           </a>
           <a
-            href='https://github.com/binarybodi'
+            href='https://github.com/zibsquid'
             title='GitHub'
             sx={{
               variant: 'styles.navitem',
@@ -206,7 +206,7 @@ export default props => {
               variant: 'styles.navitem',
               mr: 3,
             }}>
-            Bodi
+            ZibSquid
           </Styled.a>
 
           <Styled.a
@@ -231,7 +231,7 @@ export default props => {
 
 
           <div sx={{ mx: 'auto' }} />
-          <div sx={{ my: 2 }}>The Oracle of Binarybodi © MPS 2022 </div>
+          <div sx={{ my: 2 }}>ZibSquids © 21B Labs  2024 </div>
         </div>
       </footer>
     </div>
