@@ -4,13 +4,13 @@ import get from 'lodash.get'
 import Layout from './layout'
 
 const Page = props => {
-  let title = '0x Neo'
+  let title = 'Zib Squid'
   const postTitle = get(props.data, 'post.title',
     get(props, 'pageContext.frontmatter.title')
   )
   const description = get(props.data, 'post.excerpt',
     get(props, 'pageContext.frontmatter.excerpt')
-  ) || 'The writing of Gokul Ravindran'
+  ) || 'Onchain Meta Survival Game'
 
   if (postTitle) {
     title = `${postTitle} | ${title}`
@@ -35,14 +35,14 @@ const Page = props => {
           rel='canonical'
           href={props.location.href}
         />
-        <meta name='twitter:site' content='@0xneox' />
+        <meta name='twitter:site' content='@zibsquid' />
         <meta name='og:image' content='https://raw.githubusercontent.com/0xneox/binarybodi-webui/main/public/images/logobodi.webp' />
         <title>{title}</title>
         <meta name='og:title' content={title} />
         <meta name='og:description' content={description} />
         <meta name='twitter:title' content={title} />
         <meta name='twitter:description' content={description} />
-        <meta name='twitter:creator' content='Gokul Ravindran' />
+        <meta name='twitter:creator' content='ZibSquid' />
         <meta name='twitter:card' content='summary' />
       </Helmet>
       <Layout {...props}>
